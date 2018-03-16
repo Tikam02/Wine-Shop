@@ -1,2 +1,4 @@
 
 *.pyc
+
+wine/winerama/reviews/__pycache__/
