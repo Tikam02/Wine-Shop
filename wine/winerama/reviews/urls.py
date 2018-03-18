@@ -1,6 +1,6 @@
 from django.conf.urls  import url
 from .import views
-app_name = "revies"
+app_name = "reviews"
 urlpatterns = [
     url(r'^$',views.review_list,name='review_list'),
     url(r'^review/(?P<review_id>[0-9]+)/$', views.review_detail, name='review_detail'),

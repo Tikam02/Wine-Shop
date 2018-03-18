@@ -33,7 +33,7 @@ if __name__ == "__main__":
             axis=1
         )
 
-        print ("There are {} reviews in DB").format(Review.objects.count())
+        print ("There are {} reviews in DB".format(Review.objects.count()))
 
     else:
         print ("Please, provide Reviews file path")
