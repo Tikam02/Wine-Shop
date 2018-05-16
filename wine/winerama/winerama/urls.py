@@ -21,6 +21,7 @@ from django.conf.urls import  include, url
 from django.urls import path
 
 urlpatterns = [
+    path('home/', include('reviews.urls',namespace="reviews")),
     path('reviews/', include('reviews.urls',namespace="reviews")),
     path('admin/', admin.site.urls),
     path('accounts/', include('registration.backends.simple.urls')),
