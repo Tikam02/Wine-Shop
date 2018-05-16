@@ -14,3 +14,15 @@ web-based wine reviews and recommendations website using Python technologies suc
 2. Running Local Server -  wine#~ python3 manage.py runserver
 3. Go to your localhost site - localhost:8000/home
 ##### Links localhost:8000/reviews, localhost:8000/admin, localhost:8000/account.
+
+![Home](https://github.com/Tikam02/Wine-Shop/blob/master/home.png)
+
+![alt text](https://github.com/Tikam02/Wine-Shop/blob/master/latestreviews.png "Latest Reviews")
+
+![alt text](https://github.com/Tikam02/Wine-Shop/blob/master/login.png)
+
+![alt text](https://github.com/Tikam02/Wine-Shop/blob/master/signup.png)
+
+![alt tet](https://github.com/Tikam02/Wine-Shop/blob/master/wine-list.png)
+
+![alt text](https://github.com/Tikam02/Wine-Shop/blob/master/reccomendation-for-user.png)
